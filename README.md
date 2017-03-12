@@ -8,3 +8,4 @@ Runs on port 8080. If needed, change the port in this location.
 	> npm install
 	> npm start
 ```
+Inspired by StephenGrider.
